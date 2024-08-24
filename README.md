@@ -1,5 +1,5 @@
 # Description:-    
-## This system contains 10 blocks:-       
+## This system contains 11 blocks:-       
 ### 1) Clock Domain 1 (REF_CLK)     
 #### • RegFile     
 #### • ALU    
