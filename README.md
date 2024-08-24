@@ -5,12 +5,12 @@
 #### • ALU    
 #### • Clock Gating    
 #### • SYS_CTRL    
-### Clock Domain 2 (UART_CLK)    
+### 2) Clock Domain 2 (UART_CLK)    
 #### • UART_TX      
 #### • UART_RX       
 #### • PULSE_GEN        
 #### • Clock Dividers      
-### Data Synchronizers        
+### 3) Data Synchronizers        
 #### • RST Synchronizer         
 #### • Data Synchronizer      
 #### • ASYNC FIFO       
